@@ -1,0 +1,11 @@
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\bin\Debug\incercare_tema.exe.config
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\bin\Debug\incercare_tema.exe
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\bin\Debug\incercare_tema.pdb
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.csproj.AssemblyReference.cache
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.Form1.resources
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.Properties.Resources.resources
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.csproj.GenerateResource.cache
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.csproj.CoreCompileInputs.cache
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.exe
+C:\Users\Vasilica\Desktop\C#_II\incercare_tema\incercare_tema\obj\Debug\incercare_tema.pdb
